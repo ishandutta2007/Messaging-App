@@ -18,10 +18,10 @@
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list"
-        android:name="com.app.infideap.readcontact.controller.access.ui.fragment.ChatListFragment"
+        android:name="com.google.firebase.quickstart.readcontact.controller.access.ui.fragment.ChatListFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layoutManager="LinearLayoutManager"
-        tools:context="com.app.infideap.readcontact.controller.access.ui.fragment.ChatListFragment"
+        tools:context="com.google.firebase.quickstart.database.controller.access.ui.fragment.ChatListFragment"
         tools:listitem="@layout/fragment_chatlist" />
 </FrameLayout>

@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.1"
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.app.infideap.readcontact"
+        applicationId "com.google.firebase.quickstart.database"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
@@ -43,6 +43,5 @@ dependencies {
 }
 
 apply plugin: 'com.google.gms.google-services'
-
 
 

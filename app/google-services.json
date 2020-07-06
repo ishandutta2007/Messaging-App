@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "798311058643",
-    "firebase_url": "https://message-infideap.firebaseio.com",
-    "project_id": "message-infideap",
-    "storage_bucket": "message-infideap.appspot.com"
+    "project_number": "354750909541",
+    "firebase_url": "https://watsappclone-fd0b8.firebaseio.com",
+    "project_id": "watsappclone-fd0b8",
+    "storage_bucket": "watsappclone-fd0b8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:798311058643:android:807caa2958cb5ba5",
+        "mobilesdk_app_id": "1:354750909541:android:fcfef757a832647b",
         "android_client_info": {
-          "package_name": "com.app.infideap.readcontact"
+          "package_name": "com.google.firebase.quickstart.database"
         }
       },
       "oauth_client": [
         {
-          "client_id": "798311058643-e2m24teeulod0f9djfa8n4kqdj40is0h.apps.googleusercontent.com",
+          "client_id": "354750909541-ubra0r2qg1v0kiq9uak68ht054o8jds1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDm0ii5W7Yke2wSURSm0wPVaSmP9YNEQ58"
+          "current_key": "AIzaSyBoVgxpvGCuVqBVhHmHYP7uTe2AZZBG6BE"
         }
       ],
       "services": {
